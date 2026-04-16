@@ -61,7 +61,25 @@ Look for:
 graph-based problems
 shaded regions
 “find volume generated” with weird axes
+🔥 MUST DO (high value)
+1. Movie theater / viewing angle problem
 
+👉 teaches:
+
+modeling
+optimization thinking
+geometry + calculus mix
+2. Baseball / motion / work problem
+
+👉 teaches:
+
+interpretation of integrals
+real-world meaning
+3. Water / tank / liquid problem
+
+👉 EXTREMELY important
+
+appears everywhere (physics, engineering, interviews)
 👉 pick ~2–3 per section
 
 💀 LAYER 3 — PROBLEMS PLUS (MAIN FOCUS)
@@ -93,3 +111,23 @@ Problems Plus:
 2, 3, 4, 10, 12
 
 That alone = 🔥 elite level
+---
+🔥 MUST DO (high value)
+1. Movie theater / viewing angle problem
+
+👉 teaches:
+
+modeling
+optimization thinking
+geometry + calculus mix
+2. Baseball / motion / work problem
+
+👉 teaches:
+
+interpretation of integrals
+real-world meaning
+3. Water / tank / liquid problem
+
+👉 EXTREMELY important
+
+appears everywhere (physics, engineering, interviews)
